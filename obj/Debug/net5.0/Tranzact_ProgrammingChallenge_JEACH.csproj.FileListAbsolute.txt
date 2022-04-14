@@ -1,0 +1,16 @@
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.exe
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.deps.json
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.runtimeconfig.json
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.runtimeconfig.dev.json
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.dll
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\bin\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.pdb
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.csproj.AssemblyReference.cache
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.AssemblyInfoInputs.cache
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.AssemblyInfo.cs
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.csproj.CoreCompileInputs.cache
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.dll
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\refint\Tranzact_ProgrammingChallenge_JEACH.dll
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.pdb
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\Tranzact_ProgrammingChallenge_JEACH.genruntimeconfig.cache
+F:\Data J\2.Development\C#\Tranzact_ProgrammingChallenge_JEACH\obj\Debug\net5.0\ref\Tranzact_ProgrammingChallenge_JEACH.dll
